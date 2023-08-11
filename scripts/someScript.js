@@ -1,0 +1,1 @@
+alert("This is coming from \"someScript.js\" in scripts folder and is loaded via base.html template");
